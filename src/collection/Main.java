@@ -4,6 +4,7 @@ public class Main{
         System.out.println("Starting git");
         System.out.print("Version 1");
         System.out.println("Start changes");
+        System.out.println("Starting");
     }
 
 }
